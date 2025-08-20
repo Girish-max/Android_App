@@ -1,0 +1,23 @@
+{
+  "name": "Sapphire Apartment Portal",
+  "short_name": "SAPortal",
+  "start_url": "https://sites.google.com/view/sapphireportal/home",
+  "scope": "https://sites.google.com/view/sapphireportal/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://www.gstatic.com/images/branding/product/2x/web_48dp.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.gstatic.com/images/branding/product/2x/web_48dp.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
